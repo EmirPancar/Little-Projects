@@ -1,0 +1,7 @@
+C:\Users\HP03OCTOBER022\Desktop\Visual Studio Program\MatrisÇarpma\MatrisÇarpma\bin\Debug\MatrisÇarpma.exe.config
+C:\Users\HP03OCTOBER022\Desktop\Visual Studio Program\MatrisÇarpma\MatrisÇarpma\bin\Debug\MatrisÇarpma.exe
+C:\Users\HP03OCTOBER022\Desktop\Visual Studio Program\MatrisÇarpma\MatrisÇarpma\bin\Debug\MatrisÇarpma.pdb
+C:\Users\HP03OCTOBER022\Desktop\Visual Studio Program\MatrisÇarpma\MatrisÇarpma\obj\Debug\MatrisÇarpma.csproj.AssemblyReference.cache
+C:\Users\HP03OCTOBER022\Desktop\Visual Studio Program\MatrisÇarpma\MatrisÇarpma\obj\Debug\MatrisÇarpma.csproj.CoreCompileInputs.cache
+C:\Users\HP03OCTOBER022\Desktop\Visual Studio Program\MatrisÇarpma\MatrisÇarpma\obj\Debug\MatrisÇarpma.exe
+C:\Users\HP03OCTOBER022\Desktop\Visual Studio Program\MatrisÇarpma\MatrisÇarpma\obj\Debug\MatrisÇarpma.pdb
