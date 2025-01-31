@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP03OCTOBER022\\Desktop\\Visual Studio Program\\C#Form\\Zar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0696B842-E304-47B2-BECD-E382697ADD39}|Form02\\Form02.csproj|c:\\users\\hp03october022\\desktop\\visual studio program\\c#form\\zar\\form02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0696B842-E304-47B2-BECD-E382697ADD39}|Form02\\Form02.csproj|solutionrelative:form02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0696B842-E304-47B2-BECD-E382697ADD39}|Form02\\Form02.csproj|C:\\Users\\HP03OCTOBER022\\Desktop\\Visual Studio Program\\C#Form\\Zar\\form02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0696B842-E304-47B2-BECD-E382697ADD39}|Form02\\Form02.csproj|solutionrelative:form02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP03OCTOBER022\\Desktop\\Visual Studio Program\\C#Form\\Zar\\Form02\\Form1.cs",
+              "RelativeDocumentMoniker": "Form02\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP03OCTOBER022\\Desktop\\Visual Studio Program\\C#Form\\Zar\\Form02\\Form1.cs",
+              "RelativeToolTip": "Form02\\Form1.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwB8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-01T18:57:44.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\HP03OCTOBER022\\Desktop\\Visual Studio Program\\C#Form\\Zar\\Form02\\Form1.cs",
+              "RelativeDocumentMoniker": "Form02\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP03OCTOBER022\\Desktop\\Visual Studio Program\\C#Form\\Zar\\Form02\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form02\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-01T18:57:44.832Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
